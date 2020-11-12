@@ -1,0 +1,84 @@
+.Title{
+    
+    margin-left: 600px;
+    margin-right: 400px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+/*--------------------------------------------------------------------------------------------*/
+.h2{
+    margin-left: 635px;
+    margin-right: 400px;
+    color: gainsboro;
+    font-size: 22px;
+    font-style: oblique 
+}
+/*--------------------------------------------------------------------------------------------*/
+.left_column{
+    height: 150px;
+    width: 265px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    margin-left: 350px;
+    padding-right: 100px;
+    margin-top: 150px;
+}
+/*--------------------------------------------------------------------------------------------*/
+.right_column{
+    float: left;
+    position: relative;
+    margin-top: 150px;
+    height: 150px;
+    width: 400px;
+ 
+}
+/*--------------------------------------------------------------------------------------------*/
+.Name{
+    padding-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 15px;
+}
+/*--------------------------------------------------------------------------------------------*/
+.Email{
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-left: 25px;
+    padding-top: 15px;
+}
+/*--------------------------------------------------------------------------------------------*/
+.Message{
+    padding-right: 225px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 15px
+}
+/*--------------------------------------------------------------------------------------------*/
+.button{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/*--------------------------------------------------------------------------------------------*/
+.locationphoto{
+    font-size: 25px;
+    margin-bottom: 0;
+    position: absolute;
+}
+/*--------------------------------------------------------------------------------------------*/
+.phonephoto{
+    font-size: 25px;
+    position: absolute;
+}
+/*--------------------------------------------------------------------------------------------*/
+.mailphoto{
+    font-size:25px;
+    position: absolute;
+}
